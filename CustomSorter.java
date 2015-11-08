@@ -1,4 +1,4 @@
-package edu.usc.custom.sorter;
+package edu.usc.lucene.custom.sorter;
 
 import java.io.IOException;
 
